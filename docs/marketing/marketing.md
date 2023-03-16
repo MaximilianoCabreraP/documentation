@@ -2,5 +2,8 @@
 # Documentación Marketing
 [Volver](/index)
 
-1. [WordPresss](wordpress)
+1. [Categorias](categorias)
+2. [WordPresss](wordpress)
+
+
 
