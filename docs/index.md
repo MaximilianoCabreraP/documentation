@@ -1,7 +1,7 @@
-# Documentación y Utilidades
+# Programación
 
-1. [Instalación de Eslint, Prettier y Tailwind](formatter)
-
+1. [Estructura del código](programacion/estructura_codigo)
+2. [Instalación de Eslint, Prettier y Tailwind](programacion/formatter)
 
 # Documentación Empresa
 

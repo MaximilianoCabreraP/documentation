@@ -1,6 +1,6 @@
 # Instalación Eslint, Prettier y Tailwind
 
-[Volver](index)
+[Volver](/index)
 
 ## Eslint y Prettier
 
@@ -80,4 +80,4 @@ module.exports = {
 }
 ```
 
-[Volver](index)
+[Volver](/index)
