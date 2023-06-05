@@ -11,19 +11,19 @@ Para poder acceder a el panel de cupones, deberas ingresar a [https://panel.bidc
 
 Asi mismo tambien se agrego un acceso directo a este panel desde la home de panel. 
 
-![Descripción de la imagen](/programacion/img/cupones/Acceso_directo_panel.png)
+![Descripción de la imagen](/marketing/img/cupones/Acceso_directo_panel.png)
 
 ## Listado de cupones 
 
 En el listado de cupones, se podran ver todos los cupones que se encuentren cargados en el sistema.
 
-![Descripción de la imagen](/programacion/img/cupones/Listado_cupones.png)
+![Descripción de la imagen](/marketing/img/cupones/Listado_cupones.png)
 
 Estos listados de cupones cuentan con informacion rapida de cada cupon, como por ejemplo: Nombre, Tipo de pago, Descuento, Voucher, Fecha de inicio, Fecha de fin, Aplicado a, etc.
 
 Y cuenta con una columna especifica llamada "Acciones". Esta columna cuenta con accesos directos a acciones especificas. 
 
-![Descripción de la imagen](/programacion/img/cupones/Acciones.png)
+![Descripción de la imagen](/marketing/img/cupones/Acciones.png)
 
 En el caso de querer editar un cupon, o ver mas detalles del mismo, se debera hacer click en el icono de "Lapiz" que se encuentra en la columna "Acciones".
 En el caso de que el cupon se encuentre activo y se quiera desactivar, se debera hacer click en el icono de "Tacho de Basura" que se encuentra en la columna "Acciones". 
@@ -33,7 +33,7 @@ Y en el caso de que el cupon se encuentre desactivado y se quiera activar, se de
 
 Para crear un cupon, deberas ingresar a la seccion de cupones y hacer click en el boton "Crear cupon"
 
-![Descripción de la imagen](/programacion/img/cupones/Creacion_cupones.png)
+![Descripción de la imagen](/marketing/img/cupones/Creacion_cupones.png)
 
 Una vez dentro de la pagina de crear cupon, deberas completar los siguientes campos:
 ### - **Nombre** (Campo Obligatorio)
