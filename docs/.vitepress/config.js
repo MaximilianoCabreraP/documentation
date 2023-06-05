@@ -1,4 +1,4 @@
 export default {
-    title: 'Bidcom',
+    title: 'Meme',
     description: 'Documentación.'
 }
