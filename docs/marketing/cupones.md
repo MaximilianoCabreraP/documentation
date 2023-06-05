@@ -70,7 +70,7 @@ En este campo se debera colocar la fecha de fin del cupon. Esta fecha sera la fe
 
 ### - **Aplicado a** (Campo Obligatorio)
 
-![Aplicado a](/programacion/img/cupones/Seccion_aplicados.png)
+![Aplicado a](/marketing/img/cupones/Seccion_aplicados.png)
 
 En este campo se debera seleccionar a que tipo de productos se aplicara el cupon. Los tipos de productos que se pueden seleccionar son los siguientes:
 
