@@ -1,4 +1,4 @@
 export default {
     title: 'Meme',
-    description: 'Documentación.'
+    description: 'Documentación de Meme.'
 }
