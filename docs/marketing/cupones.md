@@ -23,7 +23,7 @@ Estos listados de cupones cuentan con informacion rapida de cada cupon, como por
 
 Y cuenta con una columna especifica llamada "Acciones". Esta columna cuenta con accesos directos a acciones especificas. 
 
-![Descripción de la imagen](/marketing/img/cupones/Acciones.png)
+![Descripción de la imagen](/marketing/img/cupones/Acciones_.jpg)
 
 En el caso de querer editar un cupon, o ver mas detalles del mismo, se debera hacer click en el icono de "Lapiz" que se encuentra en la columna "Acciones".
 En el caso de que el cupon se encuentre activo y se quiera desactivar, se debera hacer click en el icono de "Tacho de Basura" que se encuentra en la columna "Acciones". 
