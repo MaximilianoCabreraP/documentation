@@ -79,9 +79,6 @@ Es por eso que desde el panel deberemos completar los siguientes campos:
 - **Categorias**: Este campo es el que indica que categorias se van a mostrar en el carrusel del pasador. Para poder seleccionar las categorias, se debera hacer click en el boton de `Seleccionar categorias`. En esta seccion se podra colocar la cantidad de categorias de productos que se deseen agregar al carrusel de pasadores. 
 - **Aplicados**: Este campo se debera incluir el slug de la URL que queremos que se muestre el pasador. Por ejemplo, si queremos que el pasador se muestre en la landing /hotsale, debemos seleccionar el slug de la landing, que en este caso es `hotsale`. 
 - **Orientacion**: Este campo es el que indica la orientacion de las cards de productos que se muestran en el carrusel del pasador. En este caso de que las cards se visualizen de la manera en la que se muestra en la imagen, deberemos seleccionar `Vertical`. Pero si seleccionamos `Horizontal`, las cards se mostraran de la siguiente manera:
-
-<!-- ![Descripción de la imagen](/marketing/img/pasadores/pasador_simple_horizontal.png) -->
-
 - **Web**: Este campo es el que indica en que sitio web se va a mostrar el pasador. Podemos seleccionar la web de Bidcom, la web de Gadnic, o ambas.
 
 ## Pasador simple con fondo
