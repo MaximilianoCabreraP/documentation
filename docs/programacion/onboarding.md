@@ -1,5 +1,7 @@
 # Proceso de Onbording 🧑🏻‍💻👩🏻‍💻
 
+[Volver](/index)
+
 ¡Bienvenido a equipo! De parte del equipo de Bidcom estamos muy contentos de tenerte con nosotros en nuestro team 🚀
 Esta documentacion tiene como principal objetivo que puedas contar con todas las herramientas necesarias que vas a usar en tu dia a dia, y que sea muy sencillo ambientarte en el equipo. 
 
@@ -11,7 +13,8 @@ Desde el equipo de desarrollo, recomendamos la utilizacion del IDE Visual Studio
 El equipo de desarrollo, lo suele usar bastante, con la facilidades intuitivas que brinda la herramienta y por la gran cantidad de extensiones que tiene. 
 
 Podes descargarlo desde [este link](https://code.visualstudio.com/).
-La extensiones que mas utilizamos como equipo son:
+
+Las extensiones que mas utilizamos como equipo son:
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
@@ -33,9 +36,9 @@ Esta es una extension que la usamos bastante como equipo, ya que nos permite ten
 
 Esta es una extension que es bastante util, ya que si queremos probar alguna funcionalidad de nuestro codigo, podemos ejecutarlo desde la misma consola de Visual Studio Code, sin necesidad de tener que instalar otros programas, o usar algunos en linea. 
 
-### Git -> GitHub Desktop
+### Git/GitHub Desktop
 
-Esta es una aplicacion de escritorio que es muy util, ya que nos permite usar todas las facilidades de Git, pero de una forma mas intuitiva y mas visual, lo cual nos es muy util especialmente al momento de querer hacer algunas acciones un poco mas complejas como merge, revert, crear pull request, etc.
+Esta es una aplicacion de escritorio que es muy util, ya que nos permite usar todas las facilidades de Git, pero de una forma mas intuitiva y mas visual, lo cual nos es muy util especialmente al momento de querer hacer algunas acciones un poco mas complejas como un merge, algun revert, crear pull request, etc.
 
 Podes descargarlo desde [este link](https://desktop.github.com/).
 
@@ -50,6 +53,16 @@ Podes descargarlo desde [este link](https://mattermost.com/download/).
 Esta es una aplicacion que utilizamos para poder gestionar las tareas que tenemos como equipo. Es muy util para poder tener un seguimiento de las tareas que tenemos pendientes, las que estan en proceso, y las que ya estan terminadas. Tambien la utilizamos para proponer nuevas ideas o mejoras, y para poder tener un seguimiento de las mismas. En los ticktes que se crean, tienen que estar bien detalladas las tareas a realizar, y el tiempo que estimamos en completarlas. 
 
 Podes descargarlo desde [este link](https://clickup.com/).
+
+### Navegadores
+
+Sin lugar a dudas, tener a disposicion varios navegadores es muy util, ya que nos permite poder probar las funcionalidades que vamos desarrollando en diferentes navegadores, y asi poder asegurarnos que todo funcione correctamente.
+
+Los navegadores que te recomendamos que tengas instalados son:
+
+- [Google Chrome](https://www.google.com/intl/es/chrome/)
+- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/new/)
+- [Safari](https://support.apple.com/es_AR/downloads/safari)
 
 ### Bases de datos
 
@@ -73,3 +86,5 @@ Para poder acceder a alguna de las ramas de desarrollo de este entorno, debes co
 ## Considereaciones finales.
 
 Esperamos que esta documentacion te sea de utilidad, y que puedas tener una buena experiencia en el equipo. Si tenes alguna duda, o necesitas ayuda con algo, no dudes en contactarte con cualquier integrante del equipo de desarrollo, que con gusto te vamos a ayudar.
+
+[Volver](/index)
