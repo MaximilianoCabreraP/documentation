@@ -20,7 +20,7 @@ Esta sección del panel, no cuenta con un acceso directo desde la home de panel,
 En el listado de pasadores, se podrán ver todos los pasadores que se encuentren cargados en el sistema.
 
 
-![Descripción de la imagen](/marketing/img/pasadores/Listado_pasadores.png)
+![Descripción de la imagen](/marketing/img/pasadores/listado_pasadores.png)
 
 
 Estos listados de pasadores cuentan con información de rápida visualización de cada pasador, como por ejemplo: Título del pasador, la fecha de inicio, la fecha de fin, la URL a la que aplica, la redirección que realiza, etc.
