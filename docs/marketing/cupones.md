@@ -15,7 +15,7 @@ Asi mismo tambien se agrego un acceso directo a este panel desde la home de pane
 
 ## Listado de cupones 
 
-En el listado de cupones, se podran ver todos los cupones que se encuentren cargados en el sistema.
+En el listado de cupones, se podran ver todos los cupones activos que se encuentren cargados en el sistema.
 
 ![Descripción de la imagen](/marketing/img/cupones/Listado_cupones.png)
 
@@ -67,6 +67,10 @@ En este campo se debera colocar la fecha de inicio del cupon. Esta fecha sera la
 ### - **Fecha de fin** (Campo Obligatorio)
 
 En este campo se debera colocar la fecha de fin del cupon. Esta fecha sera la fecha en la cual el cupon dejara de ser valido. En el caso de no ingresar una fecha de fin, el sistema colocara como fecha fin, el periodo de 3 (tres) meses a partir de la fecha de inicio.
+
+### - **Email asignado** (Campo no obligatorio)
+
+En este campo se debera colocar el email al cual se le asignara el cupon. Este campo es opcional, en el caso de no colocar ningun email, el cupon se aplicara a cada compra que se realice. En el caso de colocar un email, el cupon solo se aplicara a las compras UNICAMENTE cuando el email ingresado sea el mismo que el email de la compra.
 
 ### - **Aplicado a** (Campo Obligatorio)
 
