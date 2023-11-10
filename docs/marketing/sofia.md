@@ -65,7 +65,7 @@ En el caso de que en el proceso de calificacion sea por el medio de Mercado Libr
 
 Una vez seleccionado ese boton, se le pedira al usuario que ingrese ciertos datos en forma de alternativa, como lo son el email, y el numero de celular.
 
-![No tengo comprobante OTRO CANAL DE COMPRA](../marketing/img/proyecto_sofia/No_tengo_comprobante_OTRO_Canal.png)
+![No tengo comprobante OTRO CANAL DE COMPRA](../marketing/img/proyecto_sofia/No_Tengo_Comprobante_Otro_Canal.png)
 
 ## Proceso de validacion de datos
 
