@@ -34,7 +34,7 @@ Una vez seleccionado este medio de compra, debera a comenzar a llenar ciertos da
 Una vez entonces cargados el numero de comprobante y el usuario de MercadoLibre, seras redigirido a la segunda seccion de ingresos de datos. 
 Pero en esta ocacion se deberan ingresar dos datos como lo son el email, y el numero de celular.
 
-![Segunda etapa de la carga de los datos](/marketing/img/proyecto_sofia/Segunda_carga_datos_MELI.png)
+![Segunda etapa de la carga de los datos](../marketing/img/proyecto_sofia/Segunda_carga_datos_MELI.png)
 
 ### Compre por MercadoLibre y no tengo comprobante
 
@@ -42,7 +42,7 @@ En el caso de que en el proceso de calificacion sea por el medio de Mercado Libr
 
 Una vez seleccionado ese boton, se le pedira al usuario que ingrese ciertos datos en forma de alternativa, como lo son el email, el usuario de Mercado Libre, y el numero de celular. 
 
-![No tengo comprobante MELI](/marketing/img/proyecto_sofia/No_Tengo_Comprobante_MELI.png)
+![No tengo comprobante MELI](../marketing/img/proyecto_sofia/No_Tengo_Comprobante_MELI.png)
 
 Una vez ingresados esos datos, se validara que los datos ingresados sean correctos, y comenzara el proceso de validacion de los datos ingresados.
 
