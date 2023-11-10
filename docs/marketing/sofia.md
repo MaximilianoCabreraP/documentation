@@ -126,7 +126,7 @@ En el caso del boton de "Finalizar", se le mostrara al usuario un modal con el m
 
 En el caso de que presione el boton de "Calificar", se le mostrara al usuario un modal en donde se le explicara como es el proceso de calificacion en Google o MercadoLibre, dependiendo del canal de compra.
 
-![Calificacion en Google](.../marketing/img/proyecto_sofia/Calificacion_en_google.png)
+![Calificacion en Google](.../marketing/img/proyecto_sofia/Calificacion_en_Google.png)
 
 En ese caso, luego de hacer la calificacion, se le mostrara al usuario un modal con el mensaje de agradecimiento por haber participado de la calificacion. Y, en este paso si, se le habilitara el boton de "Obtener descuento".
 
