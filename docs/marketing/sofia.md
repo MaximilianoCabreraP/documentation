@@ -59,7 +59,7 @@ Una vez entonces cargados el numero de comprobante y el email, seras redigirido 
 Pero en esta ocacion sera necesario poder ingresar el numero de celular.
 
 <!-- ![Segunda etapa de validacion OTRO CANAL DE COMPRA](/marketing/img/proyecto_sofia/Segunda_carga_datos_OTRO_CANAL.png) -->
-![Segunda etapa de validacion OTRO CANAL DE COMPRA](../marketing/img/proyecto_sofia/Segunda_carga_datos_OTRO_Canal.png)
+![Segunda etapa de validacion OTRO CANAL DE COMPRA](../marketing/img/proyecto_sofia/Segunda_carga_datos_Otro_Canal.png)
 
 ### Compre por Otro Canal y no tengo comprobante
 
