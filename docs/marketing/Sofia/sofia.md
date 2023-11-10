@@ -34,7 +34,7 @@ Una vez seleccionado este medio de compra, debera a comenzar a llenar ciertos da
 Una vez entonces cargados el numero de comprobante y el usuario de MercadoLibre, seras redigirido a la segunda seccion de ingresos de datos. 
 Pero en esta ocacion se deberan ingresar dos datos como lo son el email, y el numero de celular.
 
-![Segunda etapa de la carga de los datos](../marketing/img/proyecto_sofia/Segunda_carga_datos_MELI.png)
+![Segunda etapa de la carga de los datos](img/segunda_carga_datos_meli.png)
 
 ### Compre por MercadoLibre y no tengo comprobante
 
@@ -42,7 +42,7 @@ En el caso de que en el proceso de calificacion sea por el medio de Mercado Libr
 
 Una vez seleccionado ese boton, se le pedira al usuario que ingrese ciertos datos en forma de alternativa, como lo son el email, el usuario de Mercado Libre, y el numero de celular. 
 
-![No tengo comprobante MELI](../marketing/img/proyecto_sofia/No_Tengo_Comprobante_MELI.png)
+![No tengo comprobante MELI](img/no_tengo_comprobante_meli.png)
 
 Una vez ingresados esos datos, se validara que los datos ingresados sean correctos, y comenzara el proceso de validacion de los datos ingresados.
 
@@ -52,12 +52,12 @@ En el caso de que el usuario haya hecho la compra por la pagina de Bidcom, por l
 
 Una vez seleccionado este medio de compra, debera a comenzar a llenar ciertos datos como los son el numero de comprobante, y tambien su email. En el caso de no tener comprobante, hay un boton destinado para ese caso, por lo que al presionarlo, se le pedira otros datos como lo son su email, su nombre de usuario de MercadoLibre, y tambien su numero de celular. Pero de eso hablaremos en el apartado de "Compre por Otro Canal y no tengo comprobante".
 
-![Otro canal de compra](../marketing/img/proyecto_sofia/Carga_de_informacion_Otro_Canal.png)
+![Otro canal de compra](img/carga_informacion_otro_canal.png)
 
 Una vez entonces cargados el numero de comprobante y el email, seras redigirido a la segunda seccion de ingresos de datos.
 Pero en esta ocacion sera necesario poder ingresar el numero de celular.
 
-![Segunda etapa de validacion OTRO CANAL DE COMPRA](../marketing/img/proyecto_sofia/Segunda_carga_datos_Otro_Canal.png)
+![Segunda etapa de validacion OTRO CANAL DE COMPRA](img/segunda_carga_datos_otro.png)
 
 ### Compre por Otro Canal y no tengo comprobante
 
@@ -65,7 +65,7 @@ En el caso de que en el proceso de calificacion sea por el medio de Mercado Libr
 
 Una vez seleccionado ese boton, se le pedira al usuario que ingrese ciertos datos en forma de alternativa, como lo son el email, y el numero de celular.
 
-![No tengo comprobante OTRO CANAL DE COMPRA](../marketing/img/proyecto_sofia/No_Tengo_Comprobante_Otro_Canal.png)
+![No tengo comprobante OTRO CANAL DE COMPRA](img/no_tengo_comprobante_otro.png)
 
 ## Proceso de validacion de datos
 
@@ -87,7 +87,7 @@ Es por eso que en primera instancia, se le mostrara al usuario la numeracion de 
 
 Entonces al usuario se le planteara la pregunta de "¿Con qué probabilidad recomendarías Bidcom a un familiar o amigo?" y se le mostrara la escala de calificacion.
 
-![Escala de calificacion](../marketing/img/proyecto_sofia/escala_calificacion.png)
+![Escala de calificacion](img/escala_calificacion.png)
 
 Una vez elegida una escala de valor, el sistema analizara la puntuacion asignada al proceso de compra, y dependiendo de la calificacion, se le mostrara al usuario diferentes vistas. 
 
@@ -99,21 +99,21 @@ El proceso de clasificacion de las puntuaciones, es la siguiente:
 
 En el caso de que se haya seleccionado una calificacion negativa, se le mostrara al usuario una vista en donde se le pedira que ingrese una breve descripcion de porque considera que la calificacion es negativa. Una de las premisas que tiene el Proyecto Sofia, es que el usuario pueda expresar su experiencia de compra, y asi poder mejorarla. Es por eso que se le pedira que seleccione algunos de los motivos sugeridos por los cuales considera que la calificacion es negativa.
 
-![Calificacion negativa](../marketing/img/proyecto_sofia/Calificacion_negativa.png)
+![Calificacion negativa](img/calificacion_negativa.png)
 
 Una vez seleccionado algunos de los motivos negativos, se desplegara un recuadro de libre comentarios, en donde el usuario podra comenzar a dar mas detalles sobre su experiencia de compra.
 
-![Comentario calificacion negativa](../marketing/img/proyecto_sofia/Comentario_calificacion_negativa.png)
+![Comentario calificacion negativa](img/comentario_calificacion_negativa.png)
 
 Una vez llenado el formulario de calificacion negativa, se guardara en la base de datos la calificacion, y se le mostrara al usuario un modal con el mensaje de agradecimiento por haber participado de la calificacion.
 
-![Finalizacion de calificacion negativa](../marketing/img/proyecto_sofia/Fin_de_calificacion_negativa.png)
+![Finalizacion de calificacion negativa](img/fin_calificacion_negativa.png)
 
 ### Calificacion Positiva
 
 En el caso de que la calificacion sea positiva, es decir, haya sido de 7 a 10, se le mostrara al usuario una vista en donde se le comunicara que ya esta participando del sorteo, pero que tiene la posibilidad de aumentar sus chances de ganar, con la condicion de que tambien de su reseña positiva en Google (si se realizo la compra por Otro Canal) o en MercadoLibre (si se realizo la compra por MercadoLibre), dependiendo del canal de compra que haya seleccionado.
 
-![Calificacion positiva](../marketing/img/proyecto_sofia/Calificacion_positiva.png)
+![Calificacion positiva](img/calificacion_positiva.png)
 
 Es por eso que hay disponibles tres botones en la view. 
 El boton de calificar, llevaria al usuario a la pagina de Google o MercadoLibre, dependiendo del canal de compra, en donde podra dejar su reseña positiva.
@@ -126,7 +126,7 @@ En el caso del boton de "Finalizar", se le mostrara al usuario un modal con el m
 
 En el caso de que presione el boton de "Calificar", se le mostrara al usuario un modal en donde se le explicara como es el proceso de calificacion en Google o MercadoLibre, dependiendo del canal de compra.
 
-![Calificacion en Google](.../marketing/img/proyecto_sofia/Calificacion_en_Google.png)
+![Calificacion en Google](img/calificacion_google.png)
 
 En ese caso, luego de hacer la calificacion, se le mostrara al usuario un modal con el mensaje de agradecimiento por haber participado de la calificacion. Y, en este paso si, se le habilitara el boton de "Obtener descuento".
 
@@ -134,7 +134,7 @@ En ese caso, luego de hacer la calificacion, se le mostrara al usuario un modal 
 
 Una vez realizado la calificacion en Google o MercadoLibre, dependiendo del canal de compra, se le habilitara al usuario, el boton de "Obtener descuento".
 
-![Retorno de calificacion en Google](.../marketing/img/proyecto_sofia/Agradecimiento_de_calificacion_google.png)
+![Retorno de calificacion en Google](img/agradecimiento_calificacion_google.png)
 
 Una vez presionado ese boton, se le mostrara al usuario un modal con un codigo de descuento para su proxima compra.
 Ese cupon de descuento, estaria asignado al email, con el que hizo la calificacion, y tendria una duracion de 30 dias. El descuento se aplicaria a la totalidad de la compra, y se aplicara un 15% de descuento. 
@@ -143,7 +143,7 @@ Ese cupon de descuento, estaria asignado al email, con el que hizo la calificaci
 
 En el caso de que el usuario haya seleccionado el boton de "Finalizar", se le mostrara al usuario un modal con el mensaje de agradecimiento por haber participado de la calificacion. La particularidad de este caso, es que por no haber realizado la calificacion en Google o MercadoLibre, no se le habilitara el boton de "Obtener descuento", por lo que no tendra un cupon de descuento del 15% de descuento para su proxima compra.
 
-![Finalizacion de calificacion positiva](.../marketing/img/proyecto_sofia/Finalizar_calificacion.png)
+![Finalizacion de calificacion positiva](img/finalizar_calificacion.png)
 
 ## Enlaces que pueden ser de utilidad
 
