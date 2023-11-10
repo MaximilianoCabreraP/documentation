@@ -1,6 +1,6 @@
 # Manual de uso de los pasadores
 
-[Volver](marketing)
+[Volver](/index)
 
 ## Proyecto Sofia 
 

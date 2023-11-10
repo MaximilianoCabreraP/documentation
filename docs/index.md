@@ -9,6 +9,6 @@
 # Documentación Empresa
 
 - [Marketing](marketing/marketing)
-- [Proyecto Sofia](marketing/sofia/sofia)
+- [Proyecto Sofia](marketing/Sofia/sofia)
 
 <!-- https://vuepress.vuejs.org/guide/markdown.html#import-code-snippets -->
