@@ -5,6 +5,7 @@
 - [Instalación de Eslint, Prettier y Tailwind](programacion/formatter)
 - [Proceso de Onbording](programacion/onboarding)
 - [Resolucion Errores EAN](programacion/errores_ean)
+- [Guia de Querys en SQL](programacion/sql)
 
 # Documentación Empresa
 
