@@ -31,3 +31,18 @@ AND pago.`estado` = "approved"
 ORDER BY fecha DESC 
 
 ```
+
+### Buscar manuales correspondiente a cada producto
+
+
+```sql
+
+SELECT *
+FROM posts
+WHERE codigo_aguila LIKE "USA-%"
+AND categoria_principal_slug = 'cortadoras-de-pelo'
+AND en_pausa = 0
+AND categoria_principal_slug != 'solo-para-mercadolibre'
+ORDER BY orden_producto ASC
+
+```
