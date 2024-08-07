@@ -37,12 +37,15 @@ ORDER BY fecha DESC
 
 ```sql
 
-SELECT *
+SELECT codigo_aguila,
+IF(SUBSTRING_INDEX(`fields`, '0_link_manual":"', -1)=`fields`, NULL, SUBSTRING_INDEX(SUBSTRING_INDEX(`fields`, '0_link_manual":"', -1), '","', 1)) as 'manual 1',
+IF(SUBSTRING_INDEX(`fields`, '1_link_manual":"', -1)=`fields`, NULL, SUBSTRING_INDEX(SUBSTRING_INDEX(`fields`, '1_link_manual":"', -1), '","', 1)) as 'manual 2',
+IF(SUBSTRING_INDEX(`fields`, '2_link_manual":"', -1)=`fields`, NULL, SUBSTRING_INDEX(SUBSTRING_INDEX(`fields`, '2_link_manual":"', -1), '","', 1)) as 'manual 3',
+IF(SUBSTRING_INDEX(`fields`, '3_link_manual":"', -1)=`fields`, NULL, SUBSTRING_INDEX(SUBSTRING_INDEX(`fields`, '3_link_manual":"', -1), '","', 1)) as 'manual 4',
+IF(SUBSTRING_INDEX(`fields`, '4_link_manual":"', -1)=`fields`, NULL, SUBSTRING_INDEX(SUBSTRING_INDEX(`fields`, '4_link_manual":"', -1), '","', 1)) as 'manual 5',
+IF(SUBSTRING_INDEX(`fields`, '5_link_manual":"', -1)=`fields`, NULL, SUBSTRING_INDEX(SUBSTRING_INDEX(`fields`, '5_link_manual":"', -1), '","', 1)) as 'manual 6',
+IF(SUBSTRING_INDEX(`fields`, '6_link_manual":"', -1)=`fields`, NULL, SUBSTRING_INDEX(SUBSTRING_INDEX(`fields`, '6_link_manual":"', -1), '","', 1)) as 'manual 7'
 FROM posts
-WHERE codigo_aguila LIKE "USA-%"
-AND categoria_principal_slug = 'cortadoras-de-pelo'
-AND en_pausa = 0
-AND categoria_principal_slug != 'solo-para-mercadolibre'
-ORDER BY orden_producto ASC
+WHERE `fields` LIKE '%_link_manual":"https%'
 
 ```
