@@ -8,6 +8,7 @@
 - [Proceso de Onbording](programacion/onboarding)
 - [Resolucion Errores EAN](programacion/errores_ean)
 - [Guia de Querys en SQL](programacion/sql)
+- [Query's en Gadnic](programacion/query_gadnic)
 
 # Documentación Empresa
 
